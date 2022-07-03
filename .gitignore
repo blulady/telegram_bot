@@ -1,3 +1,5 @@
 /fab_venv
+.env
 botfather.txt
 .idea/
+/__pycache__
